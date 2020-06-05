@@ -2,3 +2,4 @@ this is a text file
 1t
 
 ok
+check out
